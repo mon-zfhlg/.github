@@ -1,18 +1,18 @@
 <a href="https://win-money.click/?brand=Mon&source=github.com" target="_blank">
-<img width="231" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Mon-00838F?style=flat" />
+<img width="231" src="https://img.shields.io/badge/%D0%9E%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82%20Mon-1565C0?style=plastic" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=Mon&source=github.com" target="_blank">
-<img width="103" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Mon-00838F?style=flat" />
+<img width="103" src="https://img.shields.io/badge/%D0%92%D1%85%D0%BE%D0%B4%20Mon-1565C0?style=plastic" />
 </a>
 <br />
 <br />
 <a href="https://win-money.click/?brand=Mon&source=github.com" target="_blank">
-<img width="135" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Mon-00838F?style=flat" />
+<img width="135" src="https://img.shields.io/badge/%D0%97%D0%B5%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%20Mon-1565C0?style=plastic" />
 </a>
 
-![Mon](334-2188.png)
+![Mon](33-10993.png)
 
 <h2>Mon Casino: Рабочее зеркало для бесперебойного доступа 🌐</h2>
 <p>В этом исчерпывающем руководстве мы рассмотрим, как получить стабильный доступ к Mon Casino, используя актуальные зеркала, и раскроем секреты беспрепятственной навигации по платформе.</p>
@@ -159,4 +159,3 @@ FAQ ❓
 </ul>
 
 [Open website](https://win-money.click/?brand=Mon&source=github.com)
-
